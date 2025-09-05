@@ -11,5 +11,5 @@
 
 
 
-# You can find the notes in below section
-<img width="988" height="619" alt="image" src="https://github.com/user-attachments/assets/18087885-3061-4f62-9054-a0a59d9b20f7" />
+# You can find the notes in below google drive link
+https://drive.google.com/file/d/1TJF3eOVnd58jQxffkO1x5qeRq-ymI1Mp/view?usp=sharing
