@@ -1,3 +1,4 @@
+# Below are the tasks for the kafka topic
 <img width="870" height="623" alt="image" src="https://github.com/user-attachments/assets/0be341b8-7e91-437c-aaad-b11ebf036a52" />
 <img width="988" height="619" alt="image" src="https://github.com/user-attachments/assets/721a6b0e-62b4-48ec-af0c-6392c75ecaa9" />
 
@@ -10,3 +11,5 @@
 
 
 
+# You can find the notes in below section
+<img width="988" height="619" alt="image" src="https://github.com/user-attachments/assets/18087885-3061-4f62-9054-a0a59d9b20f7" />
